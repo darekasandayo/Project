@@ -7,13 +7,6 @@
 ## Open the Editor
 ### On the Web
 Go to:  
-# How to Use the Offline Text Editor (v2.4)
-## Supported Browsers
-- Firefox  
-- Chrome  
-## Open the Editor
-### On the Web
-Go to:  
 https://github.io/darekasandyao/Projects/Workspace/text-editor/text-editor.html  
 ### Using a Local File
 1. Go to [My GitHub repository](https://github.com/darekasandayo/Projects)  
@@ -21,6 +14,9 @@ https://github.io/darekasandyao/Projects/Workspace/text-editor/text-editor.html
 3. Click **Download ZIP**  
 4. In your file manager, unzip the downloaded file.  
 5. Open **Projects/Workspace/text-editor/text-editor.html**
+## Change languege
+1. Click the **English(default)** button.
+2. Change Languege.
 ## Open a File
 1. Click the **Open** button.  
 2. Select your file.
