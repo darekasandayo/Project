@@ -1,4 +1,4 @@
-# How to Use the Offline Text Editor (v2.4)
+# How to Use the Offline Text Editor (v3.4)
 
 ## Supported Browsers
 - Firefox  
@@ -42,4 +42,10 @@ If the save fails, a toast notification will show an error.
 1. Click the **Save** button.  
 2. Choose where to save the file.　
 If the file is saved successfully, a toast notification will appear.　
-If the save fails, a toast notification will show an error.　
+If the save fails, a toast notification will show an error.
+## Version
+### v.1 Release
+- v.1.1~9 Minor CSS changes
+### v.2 Change main UI theme
+- v.2~9 Minor CSS JavaScript changes
+### v.3 Release other languege(Japanese version)
