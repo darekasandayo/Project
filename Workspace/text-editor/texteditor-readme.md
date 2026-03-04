@@ -45,3 +45,4 @@ If the save fails, a toast notification will show an error.
 ### v.2 Change main UI theme
 - v.2~9 Minor CSS JavaScript changes
 ### v.3 Release other languege(Japanese version)
+- v.3.5 add icon 
